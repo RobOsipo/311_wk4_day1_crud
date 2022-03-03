@@ -74,7 +74,7 @@ DELETE FROM usersAddress WHERE id = 114
 
 -- DELETE from users
 
-  DELETE FROM usersContact WHERE id = 114
+  DELETE FROM usersContact WHERE id = 114 
 
 ## Summary
 
